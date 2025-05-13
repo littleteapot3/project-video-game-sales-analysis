@@ -1,3 +1,13 @@
+> 📦 This project has been archived.
+
+This repository was part of my TripleTen Data Science Bootcamp. It has been moved into my central bootcamp project collection:  
+🔗 [Data projects (TripleTen)](https://github.com/littleteapot3/data-projects-tripleten)
+
+This version is now read-only and preserved for reference.
+
+----
+
+
 # 🎮 Video Game Sales Forecasting
 
 This project explores global video game sales data to uncover trends by platform, genre, region, and user preferences. The analysis was designed to help a fictional retailer, *Ice*, plan a 2017 marketing campaign based on historical data from 2013–2016.
